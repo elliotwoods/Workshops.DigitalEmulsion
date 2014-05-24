@@ -36,3 +36,6 @@ Release/
 *~.xml
 
 *.o
+
+data/Graycode Images/*
+data/Graycode Output/*
