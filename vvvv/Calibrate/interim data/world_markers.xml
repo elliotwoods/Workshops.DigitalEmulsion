@@ -1,2 +1,17 @@
 <?xml version="1.0" standalone="yes"?>
-<DocumentElement />
+<DocumentElement>
+  <SpreadTable>
+    <World_x0020_X>0</World_x0020_X>
+    <_x0020_World_x0020_Y>0</_x0020_World_x0020_Y>
+    <_x0020_World_x0020_Z>0</_x0020_World_x0020_Z>
+    <_x0020_Camera_x0020_X>0.10000000000000003</_x0020_Camera_x0020_X>
+    <_x0020_Camera_x0020_Y>0</_x0020_Camera_x0020_Y>
+  </SpreadTable>
+  <SpreadTable>
+    <World_x0020_X>0</World_x0020_X>
+    <_x0020_World_x0020_Y>0</_x0020_World_x0020_Y>
+    <_x0020_World_x0020_Z>0</_x0020_World_x0020_Z>
+    <_x0020_Camera_x0020_X>-0.8100000000000005</_x0020_Camera_x0020_X>
+    <_x0020_Camera_x0020_Y>-0.020000000000000007</_x0020_Camera_x0020_Y>
+  </SpreadTable>
+</DocumentElement>

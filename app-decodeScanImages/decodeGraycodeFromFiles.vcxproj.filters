@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="src\ofApp.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\main.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\main.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ofApp.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxGraycode\src\ofxGraycode.cpp">
+      <Filter>addons\ofxGraycode\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxGraycode\src\ofxGraycode\Dataset.cpp">
+      <Filter>addons\ofxGraycode\src\ofxGraycode</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxGraycode\src\ofxGraycode\Payload.cpp">
+      <Filter>addons\ofxGraycode\src\ofxGraycode</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxGraycode\src\ofxGraycode\ProjectorPixel.cpp">
+      <Filter>addons\ofxGraycode\src\ofxGraycode</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxJSON\libs\jsoncpp\src\json_writer.cpp">
+      <Filter>addons\ofxJSON\libs\jsoncpp\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxJSON\libs\jsoncpp\src\json_reader.cpp">
+      <Filter>addons\ofxJSON\libs\jsoncpp\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxJSON\libs\jsoncpp\src\json_value.cpp">
+      <Filter>addons\ofxJSON\libs\jsoncpp\src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="src">
+      <UniqueIdentifier>{d8376475-7454-4a24-b08a-aac121d3ad6f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons">
+      <UniqueIdentifier>{562aa219-f488-4aa9-b41c-62f534dd4684}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxGraycode">
+      <UniqueIdentifier>{f613d8d1-a5e0-4121-a544-669f913b79e0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxGraycode\src">
+      <UniqueIdentifier>{92101143-627d-4a72-80dd-20349a47387e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxGraycode\src\ofxGraycode">
+      <UniqueIdentifier>{e2fe29dd-7d98-48af-8c6e-4faf2c7cb3a7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxJSON">
+      <UniqueIdentifier>{bae4c20f-b82f-4e76-98f1-76dcf59204ec}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxJSON\libs">
+      <UniqueIdentifier>{73ecb03c-4ccc-439a-847f-1f01c5a452e8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxJSON\libs\jsoncpp">
+      <UniqueIdentifier>{88062b05-5f4f-48f9-82dd-bdc183dae0eb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxJSON\libs\jsoncpp\include">
+      <UniqueIdentifier>{005d6839-6762-445d-8a62-d3005a7a6264}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxJSON\libs\jsoncpp\include\json">
+      <UniqueIdentifier>{9fcb31e6-af90-40f9-ac56-32ab0711fb19}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxJSON\libs\jsoncpp\src">
+      <UniqueIdentifier>{9ac74058-4280-496c-8696-83b96265344b}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\ofApp.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\ofApp.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxGraycode\src\ofxGraycode.h">
+      <Filter>addons\ofxGraycode\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxGraycode\src\ofxGraycode\Correspondence.h">
+      <Filter>addons\ofxGraycode\src\ofxGraycode</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxGraycode\src\ofxGraycode\Dataset.h">
+      <Filter>addons\ofxGraycode\src\ofxGraycode</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxGraycode\src\ofxGraycode\Payload.h">
+      <Filter>addons\ofxGraycode\src\ofxGraycode</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxGraycode\src\ofxGraycode\ProjectorPixel.h">
+      <Filter>addons\ofxGraycode\src\ofxGraycode</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxJSON\libs\jsoncpp\include\json\json.h">
+      <Filter>addons\ofxJSON\libs\jsoncpp\include\json</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxJSON\libs\jsoncpp\include\json\reader.h">
+      <Filter>addons\ofxJSON\libs\jsoncpp\include\json</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxJSON\libs\jsoncpp\include\json\value.h">
+      <Filter>addons\ofxJSON\libs\jsoncpp\include\json</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxJSON\libs\jsoncpp\include\json\writer.h">
+      <Filter>addons\ofxJSON\libs\jsoncpp\include\json</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxJSON\libs\jsoncpp\include\json\autolink.h">
+      <Filter>addons\ofxJSON\libs\jsoncpp\include\json</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxJSON\libs\jsoncpp\include\json\config.h">
+      <Filter>addons\ofxJSON\libs\jsoncpp\include\json</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxJSON\libs\jsoncpp\include\json\features.h">
+      <Filter>addons\ofxJSON\libs\jsoncpp\include\json</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxJSON\libs\jsoncpp\include\json\forwards.h">
+      <Filter>addons\ofxJSON\libs\jsoncpp\include\json</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxJSON\libs\jsoncpp\src\json_batchallocator.h">
+      <Filter>addons\ofxJSON\libs\jsoncpp\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxJSON\libs\jsoncpp\src\json_tool.h">
+      <Filter>addons\ofxJSON\libs\jsoncpp\src</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\..\addons\ofxJSON\libs\jsoncpp\src\sconscript">
+      <Filter>addons\ofxJSON\libs\jsoncpp\src</Filter>
+    </None>
+    <None Include="..\..\..\addons\ofxJSON\libs\jsoncpp\src\json_internalarray.inl">
+      <Filter>addons\ofxJSON\libs\jsoncpp\src</Filter>
+    </None>
+    <None Include="..\..\..\addons\ofxJSON\libs\jsoncpp\src\json_internalmap.inl">
+      <Filter>addons\ofxJSON\libs\jsoncpp\src</Filter>
+    </None>
+    <None Include="..\..\..\addons\ofxJSON\libs\jsoncpp\src\json_valueiterator.inl">
+      <Filter>addons\ofxJSON\libs\jsoncpp\src</Filter>
+    </None>
+  </ItemGroup>
+</Project>
