@@ -1,5 +1,5 @@
 <!DOCTYPE PATCH  SYSTEM "http://vvvv.org/versions/vvvv45alpha32.1.dtd" >
-   <PATCH nodename="C:\vvvv\workshops\Workshops.DigitalEmulsion\vvvv\Calibrate\Camera intrinsics from chessboard (video)\main.v4p" systemname="main" filename="C:\vvvv\workshops\Workshops.DigitalEmulsion\vvvv\Calibrate\Camera intrinsics from chessboard (video)\main.v4p">
+   <PATCH nodename="D:\openFrameworks\apps\Workshops.DigitalEmulsion\vvvv\Calibrate\Camera intrinsics from chessboard (video)\main.v4p" systemname="main" filename="C:\vvvv\workshops\Workshops.DigitalEmulsion\vvvv\Calibrate\Camera intrinsics from chessboard (video)\main.v4p">
    <BOUNDS type="Window" left="0" top="0" width="12420" height="16380">
    </BOUNDS>
    <PACK Name="VVVV.Packs" Version="0.1.0">
@@ -697,6 +697,8 @@
    </BOUNDS>
    <BOUNDS type="Window" left="3200" top="1660" width="6528" height="5412">
    </BOUNDS>
+   <PIN pinname="Show Settings" slicecount="1" values="0">
+   </PIN>
    </NODE>
    <LINK srcnodeid="52" srcpinname="Output" dstnodeid="11" dstpinname="Input" linkstyle="Bezier">
    <LINKPOINT x="1808" y="3000">
@@ -711,7 +713,7 @@
    </BOUNDS>
    <BOUNDS type="Node" left="2040" top="440" width="0" height="0">
    </BOUNDS>
-   <PIN pinname="Y Input Value" slicecount="2" values="1280,720">
+   <PIN pinname="Y Input Value" slicecount="2" values="1920,1080">
    </PIN>
    <PIN pinname="Units" slicecount="1" values="px">
    </PIN>

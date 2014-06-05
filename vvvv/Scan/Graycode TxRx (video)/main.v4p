@@ -1,5 +1,5 @@
 <!DOCTYPE PATCH  SYSTEM "http://vvvv.org/versions/vvvv45alpha32.1.dtd" >
-   <PATCH nodename="C:\vvvv\workshops\Workshops.DigitalEmulsion\vvvv\Scan\Graycode TxRx (video)\main.v4p" systemname="main" filename="C:\vvvv\workshops\Workshops.DigitalEmulsion\vvvv\Scan\Graycode TxRx (video)\main.v4p">
+   <PATCH nodename="D:\openFrameworks\apps\Workshops.DigitalEmulsion\vvvv\Scan\Graycode TxRx (video)\main.v4p" systemname="main" filename="C:\vvvv\workshops\Workshops.DigitalEmulsion\vvvv\Scan\Graycode TxRx (video)\main.v4p">
    <BOUNDS type="Window" left="1970" top="3970" width="12170" height="6000">
    </BOUNDS>
    <PACK Name="VVVV.Packs" Version="0.1.0">
@@ -174,12 +174,12 @@
    </NODE>
    <LINK srcnodeid="9" srcpinname="Output" dstnodeid="10" dstpinname="Image">
    </LINK>
-   <NODE systemname="Renderer (EX9)" nodename="Renderer (EX9)" componentmode="InAWindow" id="11">
+   <NODE systemname="Renderer (EX9)" nodename="Renderer (EX9)" componentmode="FullScreen" id="11">
    <BOUNDS type="Node" left="2060" top="4800" width="100" height="100">
    </BOUNDS>
    <BOUNDS type="Box" left="2060" top="4800" width="2400" height="1800">
    </BOUNDS>
-   <BOUNDS type="Window" left="14400" top="0" width="14400" height="17440">
+   <BOUNDS type="Window" left="28510" top="1780" width="14400" height="17440">
    </BOUNDS>
    <PIN pinname="Layers" visible="1">
    </PIN>
@@ -268,7 +268,7 @@
    </NODE>
    <LINK srcnodeid="17" srcpinname="Layer" dstnodeid="16" dstpinname="Layers">
    </LINK>
-   <NODE systemname="Webcam" filename="..\..\Common\Webcam.v4p" nodename="..\..\Common\Webcam.v4p" componentmode="Hidden" id="19">
+   <NODE systemname="Webcam" filename="..\..\Common\Webcam.v4p" nodename="..\..\Common\Webcam.v4p" componentmode="InAWindow" id="19">
    <BOUNDS type="Node" left="7650" top="1640" width="100" height="100">
    </BOUNDS>
    <PIN pinname="Output" visible="1">

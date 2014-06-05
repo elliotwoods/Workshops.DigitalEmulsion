@@ -2,16 +2,56 @@
 <DocumentElement>
   <SpreadTable>
     <World_x0020_X>0</World_x0020_X>
-    <_x0020_World_x0020_Y>0</_x0020_World_x0020_Y>
-    <_x0020_World_x0020_Z>0</_x0020_World_x0020_Z>
-    <_x0020_Camera_x0020_X>0.10000000000000003</_x0020_Camera_x0020_X>
-    <_x0020_Camera_x0020_Y>0</_x0020_Camera_x0020_Y>
+    <_x0020_World_x0020_Y>0.421</_x0020_World_x0020_Y>
+    <_x0020_World_x0020_Z>0.297</_x0020_World_x0020_Z>
+    <_x0020_Camera_x0020_X>-0.63274429223744288</_x0020_Camera_x0020_X>
+    <_x0020_Camera_x0020_Y>0.512</_x0020_Camera_x0020_Y>
+    <_x0020_Projector_x0020_X>-0.73020527859237538</_x0020_Projector_x0020_X>
+    <_x0020_Projector_x0020_Y>0.84093872229465449</_x0020_Projector_x0020_Y>
+  </SpreadTable>
+  <SpreadTable>
+    <World_x0020_X>-0.579</World_x0020_X>
+    <_x0020_World_x0020_Y>0.421</_x0020_World_x0020_Y>
+    <_x0020_World_x0020_Z>0.297</_x0020_World_x0020_Z>
+    <_x0020_Camera_x0020_X>0.472972602739726</_x0020_Camera_x0020_X>
+    <_x0020_Camera_x0020_Y>0.77489349112426043</_x0020_Camera_x0020_Y>
+    <_x0020_Projector_x0020_X>0.89638318670576733</_x0020_Projector_x0020_X>
+    <_x0020_Projector_x0020_Y>0.6166883963494133</_x0020_Projector_x0020_Y>
   </SpreadTable>
   <SpreadTable>
     <World_x0020_X>0</World_x0020_X>
     <_x0020_World_x0020_Y>0</_x0020_World_x0020_Y>
+    <_x0020_World_x0020_Z>0.297</_x0020_World_x0020_Z>
+    <_x0020_Camera_x0020_X>-0.65814155251141548</_x0020_Camera_x0020_X>
+    <_x0020_Camera_x0020_Y>-0.86715384615384616</_x0020_Camera_x0020_Y>
+    <_x0020_Projector_x0020_X>-0.58357771260997071</_x0020_Projector_x0020_X>
+    <_x0020_Projector_x0020_Y>-0.8513689700130378</_x0020_Projector_x0020_Y>
+  </SpreadTable>
+  <SpreadTable>
+    <World_x0020_X>-0.579</World_x0020_X>
+    <_x0020_World_x0020_Y>0</_x0020_World_x0020_Y>
+    <_x0020_World_x0020_Z>0.297</_x0020_World_x0020_Z>
+    <_x0020_Camera_x0020_X>0.52876712328767128</_x0020_Camera_x0020_X>
+    <_x0020_Camera_x0020_Y>-0.893491124260355</_x0020_Camera_x0020_Y>
+    <_x0020_Projector_x0020_X>0.64418377321603126</_x0020_Projector_x0020_X>
+    <_x0020_Projector_x0020_Y>-0.89048239895697523</_x0020_Projector_x0020_Y>
+  </SpreadTable>
+  <SpreadTable>
+    <World_x0020_X>0</World_x0020_X>
+    <_x0020_World_x0020_Y>0.421</_x0020_World_x0020_Y>
     <_x0020_World_x0020_Z>0</_x0020_World_x0020_Z>
-    <_x0020_Camera_x0020_X>-0.8100000000000005</_x0020_Camera_x0020_X>
-    <_x0020_Camera_x0020_Y>-0.020000000000000007</_x0020_Camera_x0020_Y>
+    <_x0020_Camera_x0020_X>-0.37573972602739725</_x0020_Camera_x0020_X>
+    <_x0020_Camera_x0020_Y>0.28106508875739644</_x0020_Camera_x0020_Y>
+    <_x0020_Projector_x0020_X>-0.49560117302052786</_x0020_Projector_x0020_X>
+    <_x0020_Projector_x0020_Y>0.29074315514993482</_x0020_Projector_x0020_Y>
+  </SpreadTable>
+  <SpreadTable>
+    <World_x0020_X>-0.579</World_x0020_X>
+    <_x0020_World_x0020_Y>0.421</_x0020_World_x0020_Y>
+    <_x0020_World_x0020_Z>0</_x0020_World_x0020_Z>
+    <_x0020_Camera_x0020_X>0.42100456621004567</_x0020_Camera_x0020_X>
+    <_x0020_Camera_x0020_Y>0.42603550295857989</_x0020_Camera_x0020_Y>
+    <_x0020_Projector_x0020_X>0.5268817204301075</_x0020_Projector_x0020_X>
+    <_x0020_Projector_x0020_Y>0.16297262059973924</_x0020_Projector_x0020_Y>
   </SpreadTable>
 </DocumentElement>

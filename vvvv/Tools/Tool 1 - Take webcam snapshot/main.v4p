@@ -1,6 +1,6 @@
-<!DOCTYPE PATCH  SYSTEM "http://vvvv.org/versions/vvvv45beta31.2.dtd" >
-   <PATCH nodename="C:\vvvv\workshops\Workshops.DigitalEmulsion\vvvv\Tools\Tool 1 - Take webcam snapshot\main.v4p" systemname="Tool 1 - Take webcam snapshot" filename="C:\vvvv\workshops\Workshops.DigitalEmulsion\vvvv\Tools\Tool 1 - Take webcam snapshot.v4p">
-   <BOUNDS type="Window" left="12600" top="3930" width="11985" height="14535">
+<!DOCTYPE PATCH  SYSTEM "http://vvvv.org/versions/vvvv45alpha32.1.dtd" >
+   <PATCH nodename="D:\openFrameworks\apps\Workshops.DigitalEmulsion\vvvv\Tools\Tool 1 - Take webcam snapshot\main.v4p" systemname="Tool 1 - Take webcam snapshot" filename="C:\vvvv\workshops\Workshops.DigitalEmulsion\vvvv\Tools\Tool 1 - Take webcam snapshot.v4p">
+   <BOUNDS type="Window" left="7770" top="2140" width="11980" height="14530">
    </BOUNDS>
    <NODE systemname="VideoIn (CV.Image DirectShow)" filename="%VVVV%\packs\VVVV.CV\nodes\plugins\VVVV.Nodes.OpenCV.VideoInput.dll" nodename="VideoIn (CV.Image DirectShow)" componentmode="Hidden" id="9">
    <BOUNDS type="Node" left="612" top="2592" width="3516" height="276">
@@ -288,4 +288,8 @@
    </LINK>
    <LINK srcnodeid="18" srcpinname="Current Date" dstnodeid="16" dstpinname="Input 3">
    </LINK>
+   <PACK Name="VVVV.Packs" Version="0.1.0">
+   </PACK>
+   <PACK Name="addonpack" Version="31.9.0">
+   </PACK>
    </PATCH>
